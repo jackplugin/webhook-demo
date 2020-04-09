@@ -7,3 +7,5 @@ update develop
 add new message to master branch
 update again
 XXX
+
+set jenkins job for develop
